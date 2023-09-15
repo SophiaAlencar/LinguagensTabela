@@ -1,0 +1,16 @@
+.estiloo{
+    color: rgb(241, 23, 23);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.linguagem{
+    color: blue;
+    font-family: monospace;
+}
+.eu{
+    color: rgb(152, 12, 12);
+    font-style: initial;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+
+}
+
